@@ -19,4 +19,3 @@ while True :
 
 
 cur.close()
-
